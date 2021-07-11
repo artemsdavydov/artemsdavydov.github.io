@@ -8,7 +8,6 @@ layout: default
 
 ![ROHSARECOVERED](./assets/img/fbm_results_modker.png)
 
-![fmbrohsa](https://artemsdavydov.github.io/assets/img/fbm_results_modker.pdf)
 
 [back](./)
 
