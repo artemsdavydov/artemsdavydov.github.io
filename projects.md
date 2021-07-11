@@ -6,7 +6,7 @@ layout: default
 
 ### Mapping Galactic Magentic Fields Using RMtools and ROHSA
 
-![ROHSARECOVERED](./assets/img/fbm_results_modker.pdf)
+![ROHSARECOVERED](./assets/img/fbm_results_modker.png)
 
 ![fmbrohsa](https://artemsdavydov.github.io/assets/img/fbm_results_modker.pdf)
 
