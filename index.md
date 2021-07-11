@@ -1,4 +1,4 @@
-## 4th Year Astronomy Student [UBC]
+## Hi!
 
 -[Research Experience](./research.html)
 
