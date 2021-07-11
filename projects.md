@@ -1,3 +1,10 @@
-###My Projects
+---
+layout: default
+---
 
-This is a place holder for my completed projects
+## Welcome to another page
+
+_yay_
+
+[back](./)
+
