@@ -2,9 +2,10 @@
 layout: default
 ---
 
-## Welcome to another page
+## Projects and Previous Work
 
-_yay_
+
+This is a place holder for my previous projects
 
 [back](./)
 
