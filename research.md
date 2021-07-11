@@ -19,5 +19,9 @@ University of British Columbia| Undergraduate Thesis | Winter 2020
 ### Simulating the Polarised 10GHz Sky as Seen by The Canadian Galactic Emission Mapper (CGEM)
 University of British Columbia| Summer Undergraduate Research NSERC | June 2020 - August 2020
 
+### IoT Gas and Temperature Monitoring Interface of a Low Temperature Pyrolysis Reactor for the Production of Biochar
+Langara College| Engineering Transfer Capstone Paper Co-Author | Spring 2019 
+[IEEE XPlore Publication](https://ieeexplore.ieee.org/document/8936257)
+
 [back](./)
 
