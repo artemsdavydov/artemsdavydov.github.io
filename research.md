@@ -2,12 +2,16 @@
 layout: default
 ---
 
-## Research Experience
+# Research Experience
 
 * * *
 
 ### Mapping Galactic Magentic Fields Using RMtools and ROHSA
 Canadian Institute of Theoretical Astrophysics| Research Fellow | May 2021 - August 2021
+
+* Synthesized polarisated observation data using Python
+* Modified FORTRAN code to work with Rotation Measure data cubes
+* Assesed the performance of the modified ROHSA tool on RMclean data
 
 ![ROHSARECOVERED](./assets/img/fbm_results_modker.png)
 [Figure: ROHSA processing fBm cubes](https://artemsdavydov.github.io/assets/img/fbm_results_modker.pdf)
