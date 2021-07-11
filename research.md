@@ -24,8 +24,6 @@ University of British Columbia| Undergraduate Thesis | Winter 2020
 * Investigated the instrumental error’s BB power contribution in CGEM maps extrapolated to the CMB observation window of approximately 100GHz. 
 * Compared the expected CMB BB power level given an r value with the instrumental error’s power BB contribution  to place a restriction on allowed error in phase and gain. 
 
-
-
 [Thesis PDF](https://artemsdavydov.github.io/assets/thesis/artem_thesis.pdf)
 
 ## Simulating the Polarised 10GHz Sky as Seen by The Canadian Galactic Emission Mapper (CGEM)
@@ -37,6 +35,10 @@ Background: The Canadian Galactic Emission Mapper (CGEM) is a planned radio tele
 
 ## IoT Gas and Temperature Monitoring Interface of a Low Temperature Pyrolysis Reactor for the Production of Biochar
 Langara College| Engineering Transfer Capstone Paper Co-Author | Spring 2019
+
+* Created a local webpage and server that display and store live sensor readings and statistics read from the monitor.
+* Co authored a paper summarizing the findings of the collaboration which was published by IEEE. 
+
  
 [IEEE XPlore Publication](https://ieeexplore.ieee.org/document/8936257)
 
