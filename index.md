@@ -1,4 +1,4 @@
 ## 4th Year Astronomy Student [UBC]
 
--[Projects](./projects.html)
+-[Research Experience](./research.html)
 
