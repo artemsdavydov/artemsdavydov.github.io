@@ -13,13 +13,15 @@ Canadian Institute of Theoretical Astrophysics| Research Fellow | May 2021 - Aug
 * Modified FORTRAN code to work with Rotation Measure data cubes
 * Assesed the performance of the modified ROHSA tool on RMcleaned data
 
-## Plots of ROHSA recovered RM profiles VS input profiles in a two well separated component case:
+##Figure 1: Plots of ROHSA recovered RM profiles VS input profiles in a two well separated component case:
 ![ROHSARECOVERED](./assets/img/rohsaresults.png)
 
-## 3D Surface Plot of the ROHSA recovered RM profiles:
+[Figure 1: ROHSA processing fBm cubes](https://artemsdavydov.github.io/assets/img/fbm_results_modker.pdf)
+
+##Figure 2: 3D Surface Plot of the ROHSA recovered RM profiles:
 ![3Dprofiles](./assets/img/rmprofiles3d.png)
 
-[Figure: ROHSA processing fBm cubes](https://artemsdavydov.github.io/assets/img/fbm_results_modker.pdf)
+[Figure 2: ROHSA processing fBm cubes](https://artemsdavydov.github.io/assets/img/fbm_results_modker.pdf)
 
 ## Setting Systematic Error Requirements on the CGEM Telescope Using B Mode Contamination Criteria
 University of British Columbia| Undergraduate Thesis | Winter 2020 
