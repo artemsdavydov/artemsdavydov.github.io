@@ -11,9 +11,13 @@ Canadian Institute of Theoretical Astrophysics| Research Fellow | May 2021 - Aug
 
 * Synthesized polarisated observation data using Python
 * Modified FORTRAN code to work with Rotation Measure data cubes
-* Assesed the performance of the modified ROHSA tool on RMclean data
+* Assesed the performance of the modified ROHSA tool on RMcleaned data
 
-![ROHSARECOVERED](./assets/img/fbm_results_modker.png)
+## Plots of ROHSA recovered RM profiles VS input profiles in a two well separated component case:
+![ROHSARECOVERED](./assets/img/rohsaresults.png)
+
+## 3D Surface Plot of the ROHSA recovered RM profiles:
+![3Dprofiles](./assets/img/rmprofiles3d.png)
 
 [Figure: ROHSA processing fBm cubes](https://artemsdavydov.github.io/assets/img/fbm_results_modker.pdf)
 
