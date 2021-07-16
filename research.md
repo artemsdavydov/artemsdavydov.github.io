@@ -11,7 +11,7 @@ Canadian Institute of Theoretical Astrophysics| Research Fellow | May 2021 - Aug
 
 * Synthesized polarisated observation data using Python
 * Modified FORTRAN code to work with Rotation Measure data cubes
-* Challenged the ROHSA tool on rotation measure data test cases
+* Challenged the ROHSA tool with rotation measure edge cases to assess its performance
 * Applied the modified ROHSA tool on IC342 rm data and compared the RM fit to existing literature 
 
 ![ROHSARECOVERED](./assets/img/rohsaresults.png)
