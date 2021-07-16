@@ -7,5 +7,6 @@ I am Artem Davydov, a 4th year Astronomy student at UBC and a summer (2021) rese
 ### More:
 
 -[Research Experience](./research.html)
+
 -[Useful Notebooks](./notebooks.html)
 
