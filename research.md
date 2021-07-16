@@ -13,12 +13,12 @@ Canadian Institute of Theoretical Astrophysics| Research Fellow | May 2021 - Aug
 * Modified FORTRAN code to work with Rotation Measure data cubes
 * Assesed the performance of the modified ROHSA tool on RMcleaned data
 
-##Figure 1: Plots of ROHSA recovered RM profiles VS input profiles in a two well separated component case:
+## Figure 1: Plots of ROHSA recovered RM profiles VS input profiles in a two well separated component case:
 ![ROHSARECOVERED](./assets/img/rohsaresults.png)
 
 [Figure 1 pdf](https://artemsdavydov.github.io/assets/img/rohsaresults.pdf)
 
-##Figure 2: 3D Surface Plot of the ROHSA recovered RM profiles:
+## Figure 2: 3D Surface Plot of the ROHSA recovered RM profiles:
 ![3Dprofiles](./assets/img/rmprofiles3d.png)
 
 [Figure 2 pdf](https://artemsdavydov.github.io/assets/img/rmprofiles3d.pdf)
