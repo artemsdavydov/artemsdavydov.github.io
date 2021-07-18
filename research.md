@@ -16,7 +16,7 @@ Canadian Institute of Theoretical Astrophysics| Research Fellow | May 2021 - Aug
 
 
 ![ROHSAIC342](./assets/img/rohsafirstrun.png)
-[Figure 1: Plots of two RM components in the IC342 recovered by ROHSA](https://artemsdavydov.github.io/assets/img/rohsafirstrun.pdf)
+[Figure 1: Plots of RM surfaces components in the IC342 recovered by ROHSA](https://artemsdavydov.github.io/assets/img/rohsafirstrun.pdf)
 
 ![ROHSARECOVERED](./assets/img/rohsaresults.png)
 [Figure 2: Plots of ROHSA recovered RM profiles VS input profiles in a two well separated component case](https://artemsdavydov.github.io/assets/img/rohsaresults.pdf)
