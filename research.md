@@ -9,11 +9,12 @@ layout: default
 ## Mapping Galactic Magentic Fields Using RMtools and ROHSA
 Canadian Institute of Theoretical Astrophysics| Research Fellow | May 2021 - August 2021
 
-* Synthesized polarisated observation data using Python
+* Synthesized mock polarised intensity observation data using Python
 * Modified FORTRAN code to work with Rotation Measure data cubes
 * Challenged the ROHSA tool with rotation measure edge cases to assess its performance
+** Edge case test findings will later be summarized and become available in the form of a report
 * Applied the modified ROHSA tool on IC342 rm data and compared the RM fit to existing literature 
-
+* Created a poster and final report to communicate the main goal and summarize the results of the project
 
 ![ROHSAIC342](./assets/img/rohsafirstrun.png)
 [Figure 1: Plots of RM surfaces components in the IC342 recovered by ROHSA](https://artemsdavydov.github.io/assets/img/rohsafirstrun.pdf)
