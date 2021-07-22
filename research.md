@@ -13,7 +13,7 @@ Canadian Institute of Theoretical Astrophysics| Research Fellow | May 2021 - Aug
 - Modified FORTRAN code to work with Rotation Measure data cubes
 - Challenged the [ROHSA](https://github.com/antoinemarchal/ROHSA) tool with rotation measure edge cases to assess its performance
     - Edge case test findings will later be summarized and become available in the form of a report
-- Applied the modified ROHSA tool on IC342 rm data and compared the RM fit to existing literature 
+- Applied the modified [ROHSA](https://github.com/antoinemarchal/ROHSA)  tool on IC342 rm data and compared the RM fit to existing literature 
 - Created a poster and final report to communicate the main goal and summarize the results of the project
 
 ![ROHSAIC342](./assets/img/rohsafirstrun.png)
