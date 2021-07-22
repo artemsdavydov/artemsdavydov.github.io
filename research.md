@@ -11,7 +11,7 @@ Canadian Institute of Theoretical Astrophysics| Research Fellow | May 2021 - Aug
 
 - Synthesized mock polarised intensity observation data using Python
 - Modified FORTRAN code to work with Rotation Measure data cubes
-- Challenged the ROHSA tool with rotation measure edge cases to assess its performance
+- Challenged the [ROHSA](https://github.com/antoinemarchal/ROHSA) tool with rotation measure edge cases to assess its performance
     - Edge case test findings will later be summarized and become available in the form of a report
 - Applied the modified ROHSA tool on IC342 rm data and compared the RM fit to existing literature 
 - Created a poster and final report to communicate the main goal and summarize the results of the project
