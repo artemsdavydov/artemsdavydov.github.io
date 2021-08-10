@@ -18,12 +18,6 @@ Canadian Institute of Theoretical Astrophysics| Research Fellow | May 2021 - Aug
 
 [Final CITA Poster PDF](https://artemsdavydov.github.io/assets/cita/CITAPosterArtem.pdf)
 
-![ROHSARECOVERED](./assets/img/rohsaresults.png)
-[Plots of ROHSA recovered RM profiles VS input profiles in a two well separated component case](https://artemsdavydov.github.io/assets/img/rohsaresults.pdf)
-
-![3Dprofiles](./assets/img/rmprofiles3d.png)
-[3D Surface Plot of the ROHSA recovered RM profiles](https://artemsdavydov.github.io/assets/img/rmprofiles3d.pdf)
-
 ## Setting Systematic Error Requirements on the CGEM Telescope Using B Mode Contamination Criteria
 University of British Columbia| Undergraduate Thesis | Winter 2020 
 
