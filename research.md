@@ -16,14 +16,13 @@ Canadian Institute of Theoretical Astrophysics| Research Fellow | May 2021 - Aug
 - Applied the modified [ROHSA](https://github.com/antoinemarchal/ROHSA)  tool on IC342 rm data and compared the RM fit to existing literature 
 - Created a poster and final report to communicate the main goal and summarize the results of the project
 
-![ROHSAIC342](./assets/img/rohsafirstrun.png)
-[Figure 1: Plots of RM surfaces components in the IC342 recovered by ROHSA](https://artemsdavydov.github.io/assets/img/rohsafirstrun.pdf)
+[Final CITA Poster PDF](https://artemsdavydov.github.io/assets/cita/CITAPosterArtem.pdf)
 
 ![ROHSARECOVERED](./assets/img/rohsaresults.png)
-[Figure 2: Plots of ROHSA recovered RM profiles VS input profiles in a two well separated component case](https://artemsdavydov.github.io/assets/img/rohsaresults.pdf)
+[Plots of ROHSA recovered RM profiles VS input profiles in a two well separated component case](https://artemsdavydov.github.io/assets/img/rohsaresults.pdf)
 
 ![3Dprofiles](./assets/img/rmprofiles3d.png)
-[Figure 3: 3D Surface Plot of the ROHSA recovered RM profiles](https://artemsdavydov.github.io/assets/img/rmprofiles3d.pdf)
+[3D Surface Plot of the ROHSA recovered RM profiles](https://artemsdavydov.github.io/assets/img/rmprofiles3d.pdf)
 
 ## Setting Systematic Error Requirements on the CGEM Telescope Using B Mode Contamination Criteria
 University of British Columbia| Undergraduate Thesis | Winter 2020 
